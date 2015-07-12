@@ -7,6 +7,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import us.mccliment.first_minecraft_mod.help.*;
+import us.mccliment.first_minecraft_mod.init.ModBlocks;
 import us.mccliment.first_minecraft_mod.init.ModItems;
 import us.mccliment.first_minecraft_mod.proxies.CommonProxy;
 
@@ -22,6 +23,7 @@ public class First_Minecraft_Mod {
 	@Mod.EventHandler
 	public void preInit(FMLPreInitializationEvent event) {
 		ModItems.registerItems();
+		ModBlocks.registerBlocks();
 	}
 	
 	@Mod.EventHandler
