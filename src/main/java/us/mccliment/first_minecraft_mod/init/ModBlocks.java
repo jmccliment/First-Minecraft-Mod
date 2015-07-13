@@ -6,7 +6,7 @@ import us.mccliment.first_minecraft_mod.help.RegisterHelper;
 
 public class ModBlocks {
 
-	public static Block adamantium_block = new BlockFirst_Minecraft_Mod(1.0F, 3.0F, "pickaxe", 1, 0F).setUnlocalizedName("adamantium_block");
+	public static Block adamantium_block = new BlockFirst_Minecraft_Mod(1000.0F, 3000.0F, "pickaxe", 1, 0.5F).setUnlocalizedName("adamantium_block");
 	
 	public static void registerBlocks() {
 		RegisterHelper.registerBlock(adamantium_block);
