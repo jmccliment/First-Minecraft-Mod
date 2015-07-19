@@ -1,30 +1,112 @@
-[17:36:13] [Client thread/INFO]: Setting user: Player389
-[17:36:20] [Client thread/INFO]: LWJGL Version: 2.9.1
-[17:36:30] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Minecraft Mod
-[17:36:31] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[17:36:32] [Thread-9/INFO]: Initializing LWJGL OpenAL
-[17:36:32] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[17:36:33] [Thread-9/INFO]: OpenAL initialized.
-[17:36:33] [Sound Library Loader/INFO]: Sound engine started
-[17:36:39] [Client thread/INFO]: Created: 512x512 textures-atlas
-[17:36:42] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Minecraft Mod
-[17:36:42] [Client thread/INFO]: SoundSystem shutting down...
-[17:36:42] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[17:36:42] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[17:36:43] [Thread-11/INFO]: Initializing LWJGL OpenAL
-[17:36:43] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[17:36:43] [Thread-11/INFO]: OpenAL initialized.
-[17:36:43] [Sound Library Loader/INFO]: Sound engine started
-[17:36:48] [Client thread/INFO]: Created: 512x512 textures-atlas
-[17:36:57] [Server thread/INFO]: Starting integrated minecraft server version 1.8
-[17:36:57] [Server thread/INFO]: Generating keypair
-[17:36:58] [Server thread/INFO]: Preparing start region for level 0
-[17:36:59] [Server thread/INFO]: Preparing spawn area: 0%
-[17:37:00] [Server thread/INFO]: Preparing spawn area: 55%
-[17:37:01] [Server thread/INFO]: Changing view distance to 12, from 10
-[17:37:05] [Server thread/INFO]: Player389[local:E:cd8641db] logged in with entity id 322 at (-254.77336292823873, 69.0, 214.41626432957128)
-[17:37:05] [Server thread/INFO]: Player389 joined the game
-[17:37:08] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@6b5e1db0[id=2638860b-4718-3fd6-a709-60419a2cda4a,name=Player389,properties={},legacy=false]
+[14:34:25] [main/INFO]: Extra: []
+[14:34:26] [main/INFO]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Jeremy/.gradle/caches/minecraft/assets, --assetIndex, 1.8, --accessToken, {REDACTED}, --version, 1.8, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[14:34:26] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:34:26] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:34:26] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[14:34:26] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:34:26] [main/INFO]: Forge Mod Loader version 8.99.124.1450 for Minecraft 1.8 loading
+[14:34:26] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_45, running on Windows 8.1:amd64:6.3, installed at C:\Program Files\Java\jdk1.8.0_45\jre
+[14:34:26] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[14:34:26] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[14:34:26] [main/INFO]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[14:34:26] [main/INFO]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[14:34:26] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:34:26] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:34:26] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[14:34:26] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:34:26] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:34:26] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:34:28] [main/ERROR]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
+[14:34:36] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+[14:34:36] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:34:36] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:34:37] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[14:34:38] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:34:38] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:34:38] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[14:34:43] [Client thread/INFO]: Setting user: Player386
+[14:34:55] [Client thread/INFO]: LWJGL Version: 2.9.1
+[14:34:58] [Client thread/INFO]: [net.minecraftforge.fml.client.SplashProgress:start:235]: ---- Minecraft Crash Report ----
+// My bad.
+
+Time: 7/19/15 2:34 PM
+Description: Loading screen debug info
+
+This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.8
+	Operating System: Windows 8.1 (amd64) version 6.3
+	Java Version: 1.8.0_45, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 147052912 bytes (140 MB) / 210763776 bytes (201 MB) up to 911736832 bytes (869 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'Intel' Version: '4.0.0 - Build 10.18.10.3993' Renderer: 'Intel(R) HD Graphics 4000'
+[14:34:59] [Client thread/INFO]: Attempting early MinecraftForge initialization
+[14:34:59] [Client thread/INFO]: MinecraftForge v11.14.3.1450 Initialized
+[14:34:59] [Client thread/INFO]: Replaced 204 ore recipies
+[14:35:00] [Client thread/INFO]: Completed early MinecraftForge initialization
+[14:35:01] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[14:35:01] [Client thread/INFO]: Searching C:\dev\First-Minecraft-Mod\eclipse\mods for mods
+[14:35:12] [Client thread/INFO]: Forge Mod Loader has identified 4 mods to load
+[14:35:13] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, first_minecraft_mod] at CLIENT
+[14:35:13] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, first_minecraft_mod] at SERVER
+[14:35:15] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Minecraft Mod
+[14:35:15] [Client thread/INFO]: Processing ObjectHolder annotations
+[14:35:15] [Client thread/INFO]: Found 384 ObjectHolder annotations
+[14:35:15] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[14:35:15] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[14:35:16] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[14:35:16] [Client thread/INFO]: Applying holder lookups
+[14:35:16] [Client thread/INFO]: Holder lookups applied
+[14:35:16] [Client thread/INFO]: Injecting itemstacks
+[14:35:16] [Client thread/INFO]: Itemstack injection complete
+[14:35:19] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[14:35:19] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[14:35:19] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[14:35:20] [Thread-9/INFO]: OpenAL initialized.
+[14:35:20] [Sound Library Loader/INFO]: Sound engine started
+[14:36:00] [Client thread/INFO]: Created: 512x512 textures-atlas
+[14:36:09] [Client thread/INFO]: Injecting itemstacks
+[14:36:09] [Client thread/INFO]: Itemstack injection complete
+[14:36:11] [Client thread/INFO]: Forge Mod Loader has successfully loaded 4 mods
+[14:36:11] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Minecraft Mod
+[14:36:12] [Client thread/INFO]: SoundSystem shutting down...
+[14:36:12] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[14:36:12] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[14:36:13] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[14:36:13] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[14:36:15] [Thread-11/INFO]: OpenAL initialized.
+[14:36:15] [Sound Library Loader/INFO]: Sound engine started
+[14:37:10] [Client thread/INFO]: Created: 512x512 textures-atlas
+[14:39:02] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[14:39:02] [Server thread/INFO]: Generating keypair
+[14:39:03] [Server thread/INFO]: Injecting existing block and item data into this server instance
+[14:39:03] [Server thread/INFO]: Applying holder lookups
+[14:39:03] [Server thread/INFO]: Holder lookups applied
+[14:39:03] [Server thread/INFO]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@1c966c21)
+[14:39:03] [Server thread/INFO]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@1c966c21)
+[14:39:03] [Server thread/INFO]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@1c966c21)
+[14:39:03] [Server thread/INFO]: Preparing start region for level 0
+[14:39:04] [Server thread/INFO]: Preparing spawn area: 3%
+[14:39:05] [Server thread/INFO]: Preparing spawn area: 58%
+[14:39:07] [Server thread/INFO]: Changing view distance to 12, from 10
+[14:39:09] [Netty Local Client IO #0/INFO]: Server protocol version 2
+[14:39:09] [Netty Server IO #1/INFO]: Client protocol version 2
+[14:39:10] [Netty Server IO #1/INFO]: Client attempting to join with 4 mods : FML@8.0.99.99,Forge@11.14.3.1450,mcp@9.05,first_minecraft_mod@a4.2.283c
+[14:39:10] [Netty Local Client IO #0/INFO]: [Netty Local Client IO #0] Client side modded connection established
+[14:39:10] [Server thread/INFO]: [Server thread] Server side modded connection established
+[14:39:10] [Server thread/INFO]: Player386[local:E:4ab77f80] logged in with entity id 318 at (-254.77336292823873, 69.0, 214.41626432957128)
+[14:39:10] [Server thread/INFO]: Player386 joined the game
+[14:39:13] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@c98dc7c[id=383d2669-dd1d-3bb6-9599-ddb9736fd75c,name=Player386,properties={},legacy=false]
 com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
 	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:65) ~[YggdrasilAuthenticationService.class:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:158) [YggdrasilMinecraftSessionService.class:?]
@@ -39,72 +121,33 @@ com.mojang.authlib.exceptions.AuthenticationException: The client has sent too m
 	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:4821) [guava-17.0.jar:?]
 	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:4827) [guava-17.0.jar:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:148) [YggdrasilMinecraftSessionService.class:?]
-	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:138) [SkinManager$3.class:?]
+	at net.minecraft.client.resources.SkinManager$3.run(SourceFile:105) [SkinManager$3.class:?]
 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_45]
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_45]
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_45]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_45]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_45]
-[17:37:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3406ms behind, skipping 68 tick(s)
-[17:37:25] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
-[17:37:54] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
-[17:38:11] [Server thread/INFO]: Saving and pausing game...
-[17:38:11] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[17:38:11] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[17:38:11] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[17:38:13] [Server thread/INFO]: Stopping server
-[17:38:13] [Server thread/INFO]: Saving players
-[17:38:13] [Server thread/INFO]: Saving worlds
-[17:38:13] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[17:38:13] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[17:38:13] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[17:38:37] [Server thread/INFO]: Starting integrated minecraft server version 1.8
-[17:38:37] [Server thread/INFO]: Generating keypair
-[17:38:37] [Server thread/INFO]: Converting map!
-[17:38:37] [Server thread/INFO]: Scanning folders...
-[17:38:37] [Server thread/INFO]: Total conversion count is 0
-[17:38:38] [Server thread/INFO]: Preparing start region for level 0
-[17:38:39] [Server thread/INFO]: Preparing spawn area: 4%
-[17:38:40] [Server thread/INFO]: Preparing spawn area: 8%
-[17:38:41] [Server thread/INFO]: Preparing spawn area: 12%
-[17:38:42] [Server thread/INFO]: Preparing spawn area: 16%
-[17:38:43] [Server thread/INFO]: Preparing spawn area: 20%
-[17:38:44] [Server thread/INFO]: Preparing spawn area: 26%
-[17:38:45] [Server thread/INFO]: Preparing spawn area: 32%
-[17:38:46] [Server thread/INFO]: Preparing spawn area: 38%
-[17:38:47] [Server thread/INFO]: Preparing spawn area: 46%
-[17:38:48] [Server thread/INFO]: Preparing spawn area: 53%
-[17:38:49] [Server thread/INFO]: Preparing spawn area: 60%
-[17:38:50] [Server thread/INFO]: Preparing spawn area: 68%
-[17:38:51] [Server thread/INFO]: Preparing spawn area: 76%
-[17:38:52] [Server thread/INFO]: Preparing spawn area: 85%
-[17:38:53] [Server thread/INFO]: Preparing spawn area: 93%
-[17:38:54] [Server thread/INFO]: Changing view distance to 12, from 10
-[17:38:54] [Server thread/INFO]: Player389[local:E:55d4a815] logged in with entity id 2098 at (42.5, 64.0, 231.5)
-[17:38:54] [Server thread/INFO]: Player389 joined the game
-[17:38:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2629ms behind, skipping 52 tick(s)
-[17:39:03] [Server thread/INFO]: Player389 has just earned the achievement [Taking Inventory]
-[17:39:03] [Client thread/INFO]: [CHAT] Player389 has just earned the achievement [Taking Inventory]
-[17:39:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16745ms behind, skipping 334 tick(s)
-[17:39:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2481ms behind, skipping 49 tick(s)
-[17:39:44] [Server thread/INFO]: [Player389: Set own game mode to Survival Mode]
-[17:39:44] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[17:39:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5931ms behind, skipping 118 tick(s)
-[17:40:42] [Server thread/INFO]: [Player389: Set own game mode to Creative Mode]
-[17:40:42] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[17:41:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2660ms behind, skipping 53 tick(s)
-[17:41:32] [Server thread/INFO]: Player389 fell out of the world
-[17:41:32] [Client thread/INFO]: [CHAT] Player389 fell out of the world
-[17:41:35] [Client thread/INFO]: Stopping!
-[17:41:35] [Client thread/INFO]: SoundSystem shutting down...
-[17:41:35] [Server thread/INFO]: Stopping server
-[17:41:35] [Server thread/INFO]: Saving players
-[17:41:35] [Server thread/INFO]: Saving worlds
-[17:41:35] [Server thread/INFO]: Saving chunks for level 'New World 2'/Overworld
-[17:41:35] [Server thread/INFO]: Saving chunks for level 'New World 2'/Nether
-[17:41:35] [Server thread/INFO]: Saving chunks for level 'New World 2'/The End
-[17:41:35] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[17:41:35] [Client Shutdown Thread/INFO]: Stopping server
-[17:41:35] [Client Shutdown Thread/INFO]: Saving players
-[17:41:35] [Client Shutdown Thread/INFO]: Saving worlds
-[17:41:35] [Client Shutdown Thread/INFO]: Saving chunks for level 'New World 2'/Overworld
+[14:39:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3544ms behind, skipping 70 tick(s)
+[14:39:18] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[14:39:38] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[14:39:46] [Server thread/INFO]: [Player386: Set own game mode to Creative Mode]
+[14:39:46] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[14:39:56] [Server thread/INFO]: [Player386: Set own game mode to Survival Mode]
+[14:39:56] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[14:40:05] [Server thread/INFO]: Saving and pausing game...
+[14:40:05] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[14:40:06] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[14:40:06] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[14:40:07] [Client thread/INFO]: Stopping!
+[14:40:07] [Client thread/INFO]: SoundSystem shutting down...
+[14:40:07] [Server thread/INFO]: Stopping server
+[14:40:07] [Server thread/INFO]: Saving players
+[14:40:07] [Server thread/INFO]: Saving worlds
+[14:40:07] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[14:40:07] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[14:40:07] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[14:40:07] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[14:40:07] [Client Shutdown Thread/INFO]: Stopping server
+[14:40:07] [Client Shutdown Thread/INFO]: Saving players
+[14:40:07] [Client Shutdown Thread/INFO]: Saving worlds
+[14:40:07] [Client Shutdown Thread/INFO]: Saving chunks for level 'New World'/Overworld
